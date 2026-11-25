@@ -5,7 +5,7 @@
 
 `default_nettype none
 
-module tt_um_8bitadder (
+module tt_um_8_bitadder (
     input  wire [7:0] ui_in,    // Dedicated inputs Entrada A
     output wire [7:0] uo_out,   // Dedicated outputs Salida A+B
     input  wire [7:0] uio_in,   // IOs: Input path Entrada B
